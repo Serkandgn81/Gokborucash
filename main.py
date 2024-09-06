@@ -32,7 +32,7 @@ from datetime import datetime, timedelta
 #-------------------------------------------------------------------#
 
 BOT_ID = 7533593463
-OWNER_ID = 7455298834
+OWNER_ID = 7147517965
 WINNERS = [7242000752] #Sürekli Kazanan
 LOG_GROUP_ID = -1002238574089
 
